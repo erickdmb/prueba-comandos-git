@@ -1,0 +1,22 @@
+{
+    "name": "erick-pcgamer/semana_4",
+    "autoload": {
+        "psr-4": {
+            "ErickPcgamer\\Semana4\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ErickPcgamer\\Semana4\\tests\\": "test/"
+        }
+    },
+    "authors": [
+        {
+            "name": "erickdmb",
+            "email": "erickmosbra@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.5"
+    }
+}
